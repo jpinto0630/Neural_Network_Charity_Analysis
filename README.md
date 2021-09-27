@@ -31,13 +31,21 @@ Activation Functions: Sigmoid
 
 - What steps did you take to try and increase model performance?
 
+- Added 100 additional Epochs 
+- Added a 3rd hidden layer
+- Increased the number of neurons utilized 
+
+The model actually decreased in performance after these steps were taken. 
+
+## Summary
 ``` 
 The following could be used to increase model performance: 
 Adjusting the input data
 Adding more Neurons
 Adding more layers
 Utilizing different activation Functions
-Tinkering with the number of epochs in the training  
+Tinkering with the number of epochs in the training 
+Utilizing a different model all together. 
 ```
 
 ## Summary
