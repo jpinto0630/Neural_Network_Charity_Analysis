@@ -48,4 +48,4 @@ Tinkering with the number of epochs in the training
 Utilizing a different model all together. 
 ```
 
-## Summary
+
